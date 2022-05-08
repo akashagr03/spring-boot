@@ -1,1 +1,1 @@
-# spring-boot
+Common techniques and patterns in spring boot.
